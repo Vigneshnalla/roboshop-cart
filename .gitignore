@@ -1,1 +1,14 @@
+# .gitignore
+
+# Ignore .env files
 .env
+
+# Ignore node_modules directory
+node_modules/
+
+# Optionally, ignore other common files and directories
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+.DS_Store
+*.log
